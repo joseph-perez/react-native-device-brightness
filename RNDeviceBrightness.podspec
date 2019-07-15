@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   # s.license    = { :type => "MIT" }
   s.author       = { "Calvin Huang" => "calvin.peak@capslock.tw" }
-  s.platform     = :ios, "10.2"
+  s.platform     = :ios, "9"
   s.source       = { :git => giturl + ".git", :tag => version }
   s.source_files  = "RNDeviceBrightness/*.{h,m}"
   s.requires_arc = true
