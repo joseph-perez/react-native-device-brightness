@@ -1,3 +1,5 @@
+# Forked from [react-native-device-brightness](https://github.com/barbieri/react-native-device-brightness) 
+
 react-native-device-brightness
 ===============
 [![npm version](https://badge.fury.io/js/react-native-device-brightness.svg)](https://badge.fury.io/js/react-native-device-brightness)
