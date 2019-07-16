@@ -33,7 +33,10 @@ rnpm link react-native-device-brightness
 
 ## Manually link
 
-### iOS (without Cocoa Pods)
+### iOS (Cocoa Pods)
+```pod 'RNDeviceBrightness', :path => '../node_modules/react-native-device-brightness'```
+
+#### without Cocoa Pods:
 In XCode, in the project navigator:
 - Right click _Libraries_
 - Add Files to _[your project's name]_
